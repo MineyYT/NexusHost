@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NexusHost - VPS Hosting</title>
+    <link rel="stylesheet" href="style.css"> 
+</head>
+<body>
+    <header>
+        <h1>NexusHost</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="piani.html">Piani</a>
+            <a href="assistenza.html">Assistenza</a>
+            <a href="chisiamo.html">Chi siamo</a>
+            <a href="contatti.html">Contatti</a>
+        </nav>
+    </header>
+
+    <section id="hero">
+        <h2>VPS Hosting Affidabile e Performante</h2>
+        <p>Soluzioni VPS personalizzate per le tue esigenze.</p>
+        <a href="piani.html" class="button">Visualizza i piani</a>
+    </section>
+
+    <section id="vantaggi">
+        <h3>Vantaggi di NexusHost</h3>
+        <div>
+            <h4>Massime Prestazioni</h4>
+            <p>Server potenti e ottimizzati.</p>
+        </div>
+        <div>
+            <h4>Supporto Tecnico 24/7</h4>
+            <p>Assistenza dedicata per ogni problema.</p>
+        </div>
+        <div>
+            <h4>Scalabilità</h4>
+            <p>Piani flessibili per crescere con te.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 NexusHost</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
